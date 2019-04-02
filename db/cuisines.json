@@ -1,5 +1,0 @@
-{"_id":{"$oid":"5c176ac391d7a24c67d85abb"},"name":"Non Veg","image":"2018-12-17T09:22:11.590Zroast-turkey-in-a-pot.jpg","createdAt":{"$date":"2018-12-17T09:22:11.631Z"},"updatedAt":{"$date":"2018-12-17T09:22:11.631Z"},"__v":0}
-{"_id":{"$oid":"5c176b0891d7a24c67d85abd"},"name":"Indian","image":"2018-12-17T09:23:20.654Zsamosa-blog.jpg","createdAt":{"$date":"2018-12-17T09:23:20.662Z"},"updatedAt":{"$date":"2018-12-17T09:23:20.662Z"},"__v":0}
-{"_id":{"$oid":"5c176b20d4edcd4cb78651d5"},"name":"Chinees","image":"2018-12-17T09:23:44.881Zbringing-world-cuisines-local-level.jpg","createdAt":{"$date":"2018-12-17T09:23:44.899Z"},"updatedAt":{"$date":"2018-12-17T09:23:44.899Z"},"__v":0}
-{"_id":{"$oid":"5c1cbf5ef2f6552ac570cf31"},"name":"Chinese","image":"2018-12-21T10:24:30.071Zdownload.jpeg","createdAt":{"$date":"2018-12-21T10:24:30.075Z"},"updatedAt":{"$date":"2018-12-21T10:24:30.075Z"},"__v":0}
-{"_id":{"$oid":"5c1ccba8f2f6552ac570cf3c"},"name":"brevrages","image":"2018-12-21T11:16:56.059Zdownload.jpeg","createdAt":{"$date":"2018-12-21T11:16:56.063Z"},"updatedAt":{"$date":"2018-12-21T11:16:56.063Z"},"__v":0}
